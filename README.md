@@ -1,5 +1,5 @@
 # 💫 About Me:
-Soy estudiante de desarrollo web con varios proyectos realizados en mi camino como desarrollador, acá podrás encontrar los trabajos que he estado desarrollando desde lo más simple a lo más complejo 
+Soy estudiante la cacrera analista programador con varios proyectos realizados en mi camino como desarrollador, acá podrás encontrar los trabajos que he estado desarrollando desde lo más simple a lo más complejo 
 
 
 ## 🌐 Socials:
